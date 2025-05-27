@@ -2,12 +2,19 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 I'm Giuseppe Pugliese, Web Designer Freelance
 
+=======
 
-<a href="http://www.github.com/Magnetarman"><img src="https://github-readme-stats.vercel.app/api?username=Magnetarman&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="Magnetarman's GitHub stats" /></a>
+<a href="https://github.com/Magnetarman">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=Magnetarman&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" />
+</a>
+<a href="https://github.com/Magnetarman">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Magnetarman&layout=donut-vertical&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&card_width=320&langs_count=10" />
+</a>
+
 
 =======
 
-For more than 7 years, I have been helping companies and small entrepreneurs in switching their activities from the offline to the online world. My job, the Web-Designer, serves above all as a useful guide, to convert your ideas from the real world into the complex world of bits that we now call the World Wide Web. It may seem a simple operation and it is, only if in the conversion a series of rules and standards are respected in order to have a healthy web, beautiful to look at but above all functional for those who navigate it. I love minimalist designs that are easy to navigate even by the less experienced, and I have chosen to adopt a workflow based on open-source standards.
+For more than 10 years, I have been helping companies and small entrepreneurs in switching their activities from the offline to the online world. My job, the Web-Designer, serves above all as a useful guide, to convert your ideas from the real world into the complex world of bits that we now call the World Wide Web. It may seem a simple operation and it is, only if in the conversion a series of rules and standards are respected in order to have a healthy web, beautiful to look at but above all functional for those who navigate it. I love minimalist designs that are easy to navigate even by the less experienced, and I have chosen to adopt a workflow based on open-source standards.
 
 * 🌍  I'm based in Fisciano, Salerno (SA)
 * 🖥️  See my portfolio at [MagnetarMan.com](http://magnetarman.com/)
@@ -18,6 +25,8 @@ For more than 7 years, I have been helping companies and small entrepreneurs in 
 <a href="https://www.twitter.com/magnetar_man" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/magnetar_man?logo=twitter&style=for-the-badge&color=84cc16&labelColor=000000"
 /></a>
+
+
 
 ### Skills
 
