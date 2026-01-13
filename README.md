@@ -25,10 +25,10 @@ For more than 10 years, I have been helping companies and small entrepreneurs in
 ![](https://github-readme-stats-mu-plum-85.vercel.app/api/top-langs/?username=magnetarman&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=magnetarman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-readme-stats-mu-plum-85.vercel.app/?username=magnetarman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-profile-trophy.vercel.app/api?username=magnetarman&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-readme-stats-mu-plum-85.vercel.app/api?username=magnetarman&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
