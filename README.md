@@ -1,4 +1,4 @@
-Hello  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
+Hello  <img src="./img/wave.gif" width="50px" height= "50px"> 
 
 I'm Giuseppe Pugliese, Web Designer Freelance
 
@@ -30,7 +30,7 @@ For more than 10 years, I have been helping companies and small entrepreneurs in
 ## 🔝 GitHub Contributions
 ![Contributions](https://github.pumbas.net/api/contributions/magnetarman?days=30)
 
-## :zap: Recent Activity
+## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 
