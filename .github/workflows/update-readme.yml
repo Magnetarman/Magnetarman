@@ -1,2 +1,21 @@
-- name: GitHub - Activity - Readme
-  uses: jamesgeorge007/github-activity-readme@v0.4.6
+name: Update README with GitHub Activity
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: GitHub - Activity - Readme
+        uses: jamesgeorge007/github-activity-readme@v0.4.6
+        with:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          COMMIT_MSG: "docs: update README with latest activity"
