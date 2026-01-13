@@ -17,5 +17,5 @@ jobs:
       - name: GitHub - Activity - Readme
         uses: jamesgeorge007/github-activity-readme@v0.4.6
         with:
-          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_USERNAME: "GH_USERNAME"
           COMMIT_MSG: "docs: update README with latest activity"
