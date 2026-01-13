@@ -34,6 +34,8 @@ For more than 10 years, I have been helping companies and small entrepreneurs in
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
 ---
 
 ## 💰 You can help me by Donating
