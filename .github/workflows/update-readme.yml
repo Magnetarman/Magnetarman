@@ -11,6 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Magnetarman/Magnetarman@master
+      - uses: Magnetarman/Magnetarman@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
